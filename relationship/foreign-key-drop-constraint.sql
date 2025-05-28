@@ -1,0 +1,1 @@
+alter table wishlist drop constraint fk_wishlist_product;
