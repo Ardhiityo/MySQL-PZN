@@ -1,0 +1,1 @@
+select id, name, price from products order by price desc, name asc;

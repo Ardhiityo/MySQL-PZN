@@ -1,0 +1,1 @@
+alter table products add column category enum ('makanan', 'minuman', 'lainnya');

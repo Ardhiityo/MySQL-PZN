@@ -1,0 +1,1 @@
+alter table products modify qty int first;

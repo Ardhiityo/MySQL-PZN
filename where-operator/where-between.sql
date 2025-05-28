@@ -1,0 +1,1 @@
+select * from products where qty between 5 and 20;

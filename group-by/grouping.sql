@@ -1,0 +1,1 @@
+select count(qty) as 'total qty', category from products group by category;

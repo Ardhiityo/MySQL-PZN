@@ -1,0 +1,1 @@
+update products set category = 'makanan' where id = 2;

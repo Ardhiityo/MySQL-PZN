@@ -1,0 +1,1 @@
+alter table products add fulltext fulltext_name(name);

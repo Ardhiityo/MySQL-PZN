@@ -1,0 +1,1 @@
+alter table products add column test varchar(255);

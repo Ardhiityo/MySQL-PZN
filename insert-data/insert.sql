@@ -1,0 +1,1 @@
+insert into products (id, name, price, qty, description) values (1, 'mie ayam spesial', 12000, 3, 'spesial');

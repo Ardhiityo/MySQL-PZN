@@ -1,0 +1,1 @@
+alter table products drop constraint price_check;

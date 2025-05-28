@@ -1,0 +1,1 @@
+create table seller ( name1 varchar(100), name2 varchar(100), index name1_index (name1));

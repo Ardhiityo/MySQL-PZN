@@ -1,0 +1,1 @@
+select * from products order by id limit 5, 5;

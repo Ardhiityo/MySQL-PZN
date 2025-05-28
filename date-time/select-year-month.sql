@@ -1,0 +1,1 @@
+select id, month(created_at), year(created_at) from products;

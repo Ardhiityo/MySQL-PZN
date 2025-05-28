@@ -1,0 +1,1 @@
+alter table products drop index fulltext_name;

@@ -1,0 +1,1 @@
+alter table admin drop index index_first_name;

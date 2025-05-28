@@ -1,0 +1,1 @@
+update products set price = price + 27000  where id = 3;

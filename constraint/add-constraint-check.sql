@@ -1,0 +1,1 @@
+alter table products add constraint price_check check (price < 100000);

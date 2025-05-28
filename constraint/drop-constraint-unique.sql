@@ -1,0 +1,1 @@
+ alter table customer drop constraint email_unique;

@@ -1,0 +1,1 @@
+alter table products modify price int not null default 10;

@@ -1,0 +1,1 @@
+select * from products where match(name) against ('+bakso -mie' in boolean mode);

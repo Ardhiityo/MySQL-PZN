@@ -1,0 +1,1 @@
+select count(qty) as total, category from products group by category having total > 2;

@@ -1,0 +1,1 @@
+alter table admin add index index_first_name (first_name);

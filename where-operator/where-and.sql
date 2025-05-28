@@ -1,0 +1,1 @@
+select * from products where qty > 5 and price > 15000;

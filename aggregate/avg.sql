@@ -1,0 +1,1 @@
+select avg(price) as 'harga rata-rata' from products;
