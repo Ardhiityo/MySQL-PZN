@@ -1,0 +1,1 @@
+select w.id, p.name, p.category, p.description, p.price from wishlist as w join products as p on (w.product_id = p.id);

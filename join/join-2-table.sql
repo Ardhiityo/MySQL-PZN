@@ -1,0 +1,1 @@
+select w.id, c.email, p.name, p.category, p.description, p.price from wishlist as w join products as p on (w.product_id = p.id) join customer as c on (w.customer_id = c.id);

@@ -1,0 +1,1 @@
+select * from wishlist join products on (wishlist.product_id = products.id);
