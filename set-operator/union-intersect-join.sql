@@ -1,0 +1,1 @@
+select distinct customer.email from customer join guestbooks on (customer.email = guestbooks.email);

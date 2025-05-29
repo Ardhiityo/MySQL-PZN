@@ -1,0 +1,1 @@
+select email from customer where email in (select distinct email from guestbooks);
