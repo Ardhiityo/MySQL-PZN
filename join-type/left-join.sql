@@ -1,0 +1,1 @@
+select * from categories left join products on (products.category_id = categories.id);
