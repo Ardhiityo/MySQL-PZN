@@ -1,0 +1,1 @@
+ mysqldump mysql-pzn --user root --password --result-file=backup.sql
